@@ -2,10 +2,13 @@ import random
 
 #Assign a variable name with a value
 name = "Emmanuel"
+
 #Assign a variable questions with a value
 questions = "Yes" or "No"
+
 #Assign a variable answer with an empty value
 answer = ""
+
 #Assign a variable random_number with a value
 random_number = random.randint(1,9)
 print(random_number)
@@ -34,5 +37,6 @@ else:
   answer ="Error"
 
 #Here is the the output
+
 print(name,"asks:",questions)
 print("Magic 8-Ball's answer:", answer)
