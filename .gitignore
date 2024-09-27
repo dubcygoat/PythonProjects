@@ -156,7 +156,7 @@ dmypy.json
 cython_debug/
 
 #Text editor files
-*~.txt
+*.txt
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
